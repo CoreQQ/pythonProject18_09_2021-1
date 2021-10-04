@@ -12,7 +12,7 @@
 #После замены будет выглядеть {4, 8, 0, 6, -5} import random
 import random
 
-def get_list_10_odd_value_task01_v1(max_count=10):
+def get_list_odd_value_task01_v1(max_count=10):
     return list(range(1,max_count*2,2))
 
 def get_list_10_odd_value_task01_v2(max_count=10):
