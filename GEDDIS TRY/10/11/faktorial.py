@@ -1,6 +1,5 @@
 import math
 
-
 def main():
     number = int(input('enter number'))
 
