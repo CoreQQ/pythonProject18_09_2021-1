@@ -1,0 +1,4 @@
+1 Tom 20 Kyiv
+2 Bob 25 Odessa
+3 Alice 24 Lviv
+4 Jerry 27 Poltava

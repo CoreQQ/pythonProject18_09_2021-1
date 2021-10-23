@@ -18,24 +18,28 @@ while True:
 
 
     if chs == "1":
+        print('"+"')
         task01 = int(input("Enter first number"))
         task02 = int(input("Enter second number"))
         ans = task01 + task02
         print('Ansver: ', ans)
         print('________________________')
     elif chs == "2":
+        print('"-"')
         task01 = int(input("Enter first number"))
         task02 = int(input("Enter second number"))
         ans = task01 - task02
         print('Ansver: ', ans)
         print('________________________')
     elif chs == "3":
+        print('"*"')
         task01 = int(input("Enter first number"))
         task02 = int(input("Enter second number"))
         ans = task01 * task02
         print('Ansver: ', ans)
         print('________________________')
     elif chs == "4":
+        print('"/"')
         task01 = int(input("Enter first number"))
         task02 = int(input("Enter second number"))
         ans = task01 / task02
