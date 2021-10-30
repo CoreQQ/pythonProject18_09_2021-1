@@ -10,3 +10,5 @@ if __name__ == '__main__':
 
         lowest = min(second)
         print(lowest)
+        highest = max(second)
+        print(highest)
